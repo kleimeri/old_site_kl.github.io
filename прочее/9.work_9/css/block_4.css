@@ -1,0 +1,200 @@
+.block_4_top_line_in{
+    background-color: #000;
+    height: 2px;
+}
+.block_4_top_text{
+    color: #000;
+}
+.block_4_in_2{
+    color: #000;
+    font-size: 84px;
+}
+@media (max-width:768px) {
+    .block_4_in_2{
+        color: #000;
+        font-size: 74px;
+    }
+}
+.block_4_btn{
+    font-size: 32px;
+}
+
+.block_4_logos_in{
+    height: 70;
+}
+.block_4_logos_row_1 {
+    background-image: url(../img/block_4/imade_atwoa.png);
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 74px;
+    opacity: 0.50;
+}
+.block_4_logos_row_2 {
+    background-image: url(../img/block_4/imade_disney.png);
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 74px;
+    opacity: 0.50;
+}
+.block_4_logos_row_3 {
+    background-image: url(../img/block_4/imade_bbdo.png);
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 74px;
+    opacity: 0.50;
+}
+.block_4_logos_row_4 {
+    background-image: url(../img/block_4/imade_akoa.png);
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 74px;
+    opacity: 0.50;
+}
+.block_4_logos_row_5 {
+    background-image: url(../img/block_4/imade_gq.png);
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 74px;
+    opacity: 0.50;
+}
+.block_4_logos_row_6 {
+    background-image: url(../img/block_4/imade_nike.png);
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 74px;
+    opacity: 0.50;
+}
+
+
+.block_4_boxs_name_surname{
+    color: #000;
+    font-size: 26px;
+}
+.block_4_boxs_profession_text{
+    color: #000;
+    font-size: 19px;
+}
+
+
+.block_4_boxs_photo_in_1{
+
+    background-image: url(../img/block_4/boxs/image_1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 410px;
+}
+.block_4_boxs_photo_in_2{
+    background-image: url(../img/block_4/boxs/image_2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 410px;
+}
+.block_4_boxs_photo_in_3{
+    background-image: url(../img/block_4/boxs/image_3.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 410px;
+}
+.block_4_boxs_photo_in_4{
+    background-image: url(../img/block_4/boxs/image_4.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 410px;
+}
+.block_4_boxs_photo_in_5{
+    background-image: url(../img/block_4/boxs/image_5.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 410px;
+}
+.block_4_boxs_photo_in_6{
+    background-image: url(../img/block_4/boxs/image_6.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 410px;
+}
+.block_4_boxs_photo_in_7{
+    background-image: url(../img/block_4/boxs/image_7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 410px;
+}
+.block_4_boxs_photo_in_8{
+    background-image: url(../img/block_4/boxs/image_8.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 410px;
+}
+
+@media (max-width:1200px) {
+    .block_4_boxs_photo_in_1{
+        height: 320px;
+    }
+    .block_4_boxs_photo_in_2{
+
+        height: 320px;
+    }
+    .block_4_boxs_photo_in_3{
+
+        height: 320px;
+    }
+    .block_4_boxs_photo_in_4{
+
+        height: 320px;
+    }
+    .block_4_boxs_photo_in_5{
+
+        height: 320px;
+    }
+    .block_4_boxs_photo_in_6{
+
+        height: 320px;
+    }
+    .block_4_boxs_photo_in_7{
+
+        height: 320px;
+    }
+    .block_4_boxs_photo_in_8{
+
+        height: 320px;
+    }
+}
+@media (max-width:870px) {
+    .block_4_boxs_photo_in_1{
+        height: 250px;
+    }
+    .block_4_boxs_photo_in_2{
+
+        height: 250px;
+    }
+    .block_4_boxs_photo_in_3{
+
+        height: 250px;
+    }
+    .block_4_boxs_photo_in_4{
+
+        height: 250px;
+    }
+    .block_4_boxs_photo_in_5{
+
+        height: 250px;
+    }
+    .block_4_boxs_photo_in_6{
+
+        height: 250px;
+    }
+    .block_4_boxs_photo_in_7{
+
+        height: 250px;
+    }
+    .block_4_boxs_photo_in_8{
+
+        height: 250px;
+    }
+}

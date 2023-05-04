@@ -1,0 +1,48 @@
+
+.header {
+    width: auto;
+    height:70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 12;
+    margin-top: -350px;
+}
+.in_header{
+    width: 1200px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo {
+    width: 134px;
+    height: 30px;
+    background-image: url(../img/header/logo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.menu_link {
+    width: auto;
+    height: max-content;
+    display: flex;
+
+}
+.link_menu {
+    cursor: pointer;
+    width: auto;
+    height: max-content;
+    padding: 10px;
+    color: white;
+    font-family: 'Raleway';
+    font-size: 14px;
+    transition: 0.3s;
+}
+.link_menu:hover {
+    width: auto;
+    height: max-content;
+    padding: 10px;
+    color: rgb(151, 151, 151);
+    transition: 0.3s;
+}

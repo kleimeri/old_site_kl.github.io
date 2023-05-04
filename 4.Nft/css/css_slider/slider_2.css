@@ -1,0 +1,27 @@
+/* Слайдер */
+
+.slider_2 .slick-slider{
+    width: 1440px;
+    height: 400px;
+}
+/* Слайдер запущен */
+.slider_2 .slick-slider.slick-initialized{}
+/* Ограничивающая оболочка */
+.slider_2 .slick-list {
+    overflow: hidden;
+    height: max-content;
+}
+/* Лента слайдов */
+.slider_2 .slick-track{
+    height: max-content;
+    display: flex;
+}
+/* Слайд */
+.slick-slide{}
+/* Слайд активный (показывается) */
+.slick-slide.slick-active{}
+/* Слайд основной */
+.slick-slide.slick-current{}
+/* Слайд по центру */
+.slick-slide.slick-center{}
+/* Клонированный слайд */

@@ -1,0 +1,16 @@
+.block_8{
+    height: 380px;
+    background-color: #000;
+}
+
+.block_8_header_text_in{
+    color: #fff;
+    font-size: 58px;
+    font-family: Arial;
+}
+.block_8_btn_text_in{
+    font-family: Arial;
+    font-size: 16px;
+    padding: 20px;
+    background-color: #fff;
+}

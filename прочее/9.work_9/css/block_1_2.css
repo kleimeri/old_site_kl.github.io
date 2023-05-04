@@ -1,0 +1,36 @@
+.block_1{
+    background-color: #FFD300;
+    min-height: 100vh;
+}
+
+.block_1_only_1_text{
+    font-family: 'RobotoRegular';
+    color: #000;
+    font-size: 150px;
+    margin-top: 250px;
+}
+
+
+.block_2{
+    min-height: 35vh;
+    background-color: #FFD300;
+}
+.block_2_text_1{
+    font-family: 'RobotoRegular';
+    font-size: 24px;
+    font-weight: 400;
+}
+.block_2_text_2{
+    font-family: 'RobotoRegular';
+    font-size: 24px;
+    font-weight: 400;
+}
+.block_2_btn_text{
+    background-image: url(../img/block_2/IMAGE.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 260px;
+    height: 60px;
+    font-family: 'RobotoRegular';
+    font-size: 21px;
+}

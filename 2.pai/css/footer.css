@@ -1,0 +1,30 @@
+
+.footer_block_top{
+    margin-top: 100px;
+}
+.footer_logo_in{
+    background-image: url(../img/logo.png);
+    width: 65px;
+    height: 41px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.footer_menu_btn_1{
+    font-family: Arial;
+    font-size: 23px;
+    color: #000;
+}
+
+.footer_block_bottom{
+    margin-top: 180px;
+    margin-bottom: 100px;
+}
+.footer_block_bottom_license_text{
+    font-family: Arial;
+    color: #000;
+}
+.footer_block_bottom_btn_text{
+    font-family: Arial;
+    color: #000;
+}

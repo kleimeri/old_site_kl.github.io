@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #242B33;
+    z-index: 12;
+    
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url(../fonts/Raleway-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url(../fonts/PlayfairDisplay-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url(../fonts/Roboto-Light.ttf);
+}
+.bg_img{
+    max-width: 2015px;
+    width: 100%;
+    height: 840px;
+    background-image: url(../img/background/Rectangle.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    text-align: center;
+    top: -30px;
+    z-index: -1;
+}
+.bg_img_4{
+    max-width: 2015px;
+    width: 100%;
+    height: 850px;
+    background-image: url(../img/background/Rectangle1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    text-align: center;
+    top: 2350px;
+    z-index: -1;
+}
+.bg_img_2 {
+    width: 300px;
+    height: 400px;
+    background-image: url(../img/background/II.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 950px;
+    left: 1170px;
+    z-index: -1;
+}
+.bg_img_3{
+    width: 350px;
+    height: 400px;
+    background-image: url(../img/background/III.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 950px;
+    left: -100px;
+    z-index: -1;
+}
+.bg_img_5 {
+    width: 350px;
+    height: 400px;
+    background-image: url(../img/background/IV.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 2200px;
+    left: 1100px;
+    z-index: -1;
+}
+.bg_img_6 {
+    width: 300px;
+    height: 400px;
+    background-image: url(../img/background/V.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 2550px;
+    left: -50px;
+    z-index: -1;
+}
+.bg_footer{
+    width: auto;
+    height: 350px;
+    background: #2D343C;
+    position: relative;
+    top: 5020px;
+    z-index: -1;
+
+}

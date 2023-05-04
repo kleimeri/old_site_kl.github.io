@@ -1,0 +1,221 @@
+.block_6{
+    background-color: #fff;
+}
+
+.block_6_top_text{
+    color: #000;
+}
+.block_6_top_line_in{
+    background-color: #000;
+    height: 2px;
+}
+
+.block_6_text_in{
+    color: #000;
+    font-size: 84px;
+}
+
+.block_6_1_in{
+    background-color: #000;
+}
+.block_6_1_text {
+}
+
+.block_6_1_text_1 {
+    margin-top: 90px;
+}
+.block_6_1_text_1_in {
+    color: #fff;
+    font-size: 49px;
+}
+.block_6_1_text_2{
+    margin-top: 90px;
+}
+.block_6_1_text_2_1{
+    color: #fff;
+    font-size: 21px;
+}
+.block_6_1_text_2_2{
+    color: #fff;
+    font-size: 21px;
+}
+
+.block_6_1_text_3_in{
+    color: #fff;
+    font-size: 18px;
+}
+
+.block_6_1_text_3{
+    margin-top: 90px;
+}
+.block_6_1_text_3_btn{
+    color: #fff;
+    font-size: 18px;
+}
+
+.block_6_1_img {
+    background-image: url(../img/block_6/block_6_1/image.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 690px;
+}
+
+@media (max-width:1288px) {
+    .block_6_1_img {
+        background-image: url(../img/block_6/block_6_1/image.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: 600px;
+    }
+    
+}
+@media (max-width:1120px) {
+    .block_6_1_img {
+        background-image: url(../img/block_6/block_6_1/image.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: 545px;
+    }
+    .block_6_1_text_1 {
+        margin-top: 50px;
+    }
+    .block_6_1_text_2{
+        margin-top: 50px;
+    }
+    .block_6_1_text_3{
+        margin-top: 50px;
+    }
+}
+
+@media (max-width:1024px){
+    .block_6_1_img {
+        background-image: url(../img/block_6/block_6_1/image.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: 520px;
+    }
+    .block_6_1_text_1 {
+        margin-top: 40px;
+    }
+    .block_6_1_text_2{
+        margin-top: 40px;
+    }
+    .block_6_1_text_3{
+        margin-top: 40px;
+    }
+    .block_6_1_text_1_in {
+        color: #fff;
+        font-size: 49px;
+    }
+}
+@media (max-width:978px){
+    .block_6_1_img {
+        background-image: url(../img/block_6/block_6_1/image.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: 400px;
+    }
+    .block_6_1_text_1 {
+        margin-top: 30px;
+    }
+    .block_6_1_text_2{
+        margin-top: 30px;
+    }
+    .block_6_1_text_2_1{
+        color: #fff;
+        font-size: 15px;
+    }
+    .block_6_1_text_2_2{
+        color: #fff;
+        font-size: 15px;
+    }
+    .block_6_1_text_3{
+        margin-top: 30px;
+    }
+    .block_6_1_text_1_in {
+        color: #fff;
+        font-size: 39px;
+    }
+}
+.block_6_2{
+    height: 690px;
+}
+.block_6_2_in{
+    background: #000;
+}
+.block_6_2_in_1{
+    background-color: #FFD300;
+}
+.block_6_2_in_2{
+    background-color: #EFF1F4;
+}
+.block_6_2_in_top_img{
+    height: 410px;
+    background-image: url(../img/block_6/block_6_2/image_1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.block_6_2_in_bottom_img{
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    height: 385px;
+}
+.block_6_2_in_bottom_img_in{
+    height: 345px;
+    background-image: url(../img/block_6/block_6_2/image_2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.block_6_2_in_bottom_text_in_header {
+    font-family: Arial;
+    font-size: 50px;
+    color: #000;
+    text-align: center;
+}
+.block_6_2_in_bottom_text_in_footer {
+    font-family: Arial;
+    font-size: 24px;
+    color: #000;
+    text-align: center;
+}
+
+
+
+@media (max-width:1024px) {
+    .block_6_2_in_bottom_img_in{
+        height: 344px;
+        background-image: url(../img/block_6/block_6_2/image_2.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    
+}
+
+@media (max-width:768px) {
+    .block_6_2_in_top_img{
+        height: 300px;
+        background-image: url(../img/block_6/block_6_2/image_1.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+
+    .block_6_2_in_bottom_img_in{
+        height: 250px;
+        background-image: url(../img/block_6/block_6_2/image_2.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    .block_6_2{
+        height: max-content;
+    }
+    .block_6_2_in{
+        height: max-content;
+    }
+    .block_6_2_in_bottom_img{
+        width: auto;
+        height: 300px;
+    }
+}
+

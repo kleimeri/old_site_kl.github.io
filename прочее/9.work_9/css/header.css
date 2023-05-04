@@ -1,0 +1,23 @@
+.header{
+    position:fixed;
+    margin-top: 50px;
+}
+.header_menu_text{
+    font-family: 'RobotoRegular';
+    font-weight: 400;
+}
+
+.header_menu_text_1::before{
+    position: relative;
+    top: -15px;
+    left: 115px;
+    font-family: 'RobotoRegular';
+    content: "NEW";
+    font-size: 11px;
+    color: rgb(0, 0, 0);
+    
+}
+.header_menu_text_2{
+    font-family: 'RobotoRegular';
+    color: #fff;
+}

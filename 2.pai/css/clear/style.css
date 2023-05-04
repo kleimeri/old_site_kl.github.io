@@ -1,0 +1,29 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  overflow-x: hidden;
+  height: auto;
+}
+a{
+  color: #000;
+  text-decoration:none;
+}
+button{
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  cursor: pointer;
+  padding: 0px;
+  margin: 0px;
+}
+button :active{
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  cursor: pointer;
+}
+li{
+  list-style-type: none;
+}
+ul{
+  margin-bottom: 0px;
+}
+

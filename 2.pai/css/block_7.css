@@ -1,0 +1,43 @@
+
+
+.block_7 {
+    min-height:100vh;
+    background-color: #4E5EFF;
+}
+.block_7_main_text{
+    font-family: Arial;
+    font-size: 42px;
+    color: #fff;
+}
+
+.block_7_header_text_img_in {
+    width: 168px;
+    height: 32px;
+    background-image: url(../img/block_7/imade_2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 88px;
+    margin-bottom: 50px;
+}
+.block_7_img_in{
+    width: 48px;
+    height: 40px;
+    background-image: url(../img/block_7/imade.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 15px;
+}
+
+
+.block_7_name_and_surname {
+    font-family: Arial;
+    font-size: 24px;
+    color: #fff;
+    margin-left: 88px;
+}
+.block_7_spetsial {
+    font-family: Arial;
+    font-size: 18px;
+    color: #fff;
+    margin-left: 88px;
+}

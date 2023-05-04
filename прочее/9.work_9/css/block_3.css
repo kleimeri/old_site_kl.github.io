@@ -1,0 +1,91 @@
+.block_3_in{
+    background-image: url(../img/block_3/image_bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: max-content;
+}
+.block_3_top_text{
+    color: #688C6B;
+    
+}
+.block_3_top_line_in{
+    background-color: #fff;
+    height: 2px;
+}
+
+.block_3_main_text_in_1{
+    color: #7EA5B5;
+    font-size: 57px;
+    font-family: 'RobotoRegular';
+}
+.block_3_main_text_in_2{
+    color: #fff;
+    font-size: 42px;
+    font-family: 'RobotoRegular';
+}
+
+.block_3_bottom_photo_in{
+    background-image: url(../img/block_3/image_in_block.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 1200px;
+    height: 700px;
+    margin-bottom: 50px;
+}
+
+@media (max-width:2560px) {
+    .block_3_bottom_photo_in{
+        background-image: url(../img/block_3/image_in_block.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 1500px;
+        height: 1000px;
+        margin-top: 100px;
+    }
+}
+
+@media (max-width:1612px) {
+    .block_3_bottom_photo_in{
+        background-image: url(../img/block_3/image_in_block.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 1300px;
+        height: 1000px;
+        margin-top: 100px;
+    }
+}
+
+@media (max-width:1440px) {
+    .block_3_bottom_photo_in{
+        background-image: url(../img/block_3/image_in_block.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 1100px;
+        height: 700px;
+        margin-top: 100px;
+    }
+}
+@media (max-width:1200px) {
+    .block_3_bottom_photo_in{
+        background-image: url(../img/block_3/image_in_block.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 950px;
+        height: 600px;
+        margin-top: 30px;
+    }
+}
+@media (max-width:768px) {
+    .block_3_bottom_photo_in{
+        background-image: url(../img/block_3/image_in_block.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 650px;
+        height: 400px;
+    }
+    .block_3_main_text_in_2{
+        color: #fff;
+        font-size: 35px;
+        font-family: 'RobotoRegular';
+    }
+}

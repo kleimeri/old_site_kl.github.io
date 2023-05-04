@@ -1,0 +1,101 @@
+.block_3_in{
+
+}
+.block_3_text{
+    margin-top: 150px;
+}
+.block_3_header_text{
+    font-family:Arial;
+    font-size: 58px;
+    color:#000;
+    line-height: 62px;
+}
+.block_3_main_text{
+    margin-top: 50px;
+    font-family:Arial;
+    font-size: 18px;
+    color:#000;
+    line-height: 30px;
+}
+.block_3_footer_btn{
+    margin-top: 50px;
+}
+
+.block_3_photo{
+    background-image: url(../img/block_3/image.png);
+    width: 530px;
+    height: 533px;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    margin-top: 50px;
+}
+.block_4_photo{
+    background-image: url(../img/block_4/image.png);
+    width: 530px;
+    height: 533px;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    margin-top: 50px;
+}
+.block_4_header_text{
+    font-family:Arial;
+    font-size: 58px;
+    color:#000;
+    line-height: 62px;
+}
+
+.block_5_photo{
+    background-image: url(../img/block_5/image.png);
+    width: 530px;
+    height: 533px;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    margin-top: 150px;
+}
+.block_4_header_text{
+    font-family:Arial;
+    font-size: 58px;
+    color:#000;
+    line-height: 62px;
+}
+
+
+@media (max-width: 992px) {
+    .block_3_photo{
+        background-image: url(../img/block_3/image.png);
+        width: 530px;
+        height: 533px;
+        background-repeat: no-repeat;
+        background-size: 70%;
+        margin-top: 70px;
+    }
+    .block_3_text{
+        margin-top: 50px;
+    }
+    
+
+    .block_4_photo{
+        background-image: url(../img/block_4/image.png);
+        width: 530px;
+        height: 533px;
+        background-repeat: no-repeat;
+        background-size: 70%;
+        margin-top: 150px;
+    }
+
+    .block_4_header_text{
+        font-family:Arial;
+        font-size: 50px;
+        color:#000;
+        line-height: 62px;
+    }
+    .block_5_photo{
+        background-image: url(../img/block_5/image.png);
+        width: 530px;
+        height: 533px;
+        background-repeat: no-repeat;
+        background-size: 70%;
+        margin-top: 100px;
+    }
+}
+
